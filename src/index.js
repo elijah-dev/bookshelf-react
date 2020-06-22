@@ -5,6 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
+  // Основной код в App.js
   <React.StrictMode>
     <App />
   </React.StrictMode>,
